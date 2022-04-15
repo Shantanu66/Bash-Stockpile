@@ -1,10 +1,3 @@
-#!/bin/sh 
-#
-# shelladmin menu system
-#
-# Stephen Lang
-# Tue Mar  5 23:51:02 EST 2013
-
 
 main() {
 
