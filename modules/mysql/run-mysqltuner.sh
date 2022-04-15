@@ -1,9 +1,4 @@
-#!/bin/bash 
-#
-# Install and run mysqltuner.pl
-#
-# Stephen Lang
-# Tue Mar  5 23:53:01 EST 2013
+
 
 
 # Variables
