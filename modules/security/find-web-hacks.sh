@@ -1,9 +1,3 @@
-#!/bin/bash 
-#
-# Dirty script for finding common web hacks within Apache sites
-#
-# Stephen Lang
-# Tue Mar  5 23:53:01 EST 2013
 
 
 # variables
