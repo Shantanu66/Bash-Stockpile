@@ -1,9 +1,3 @@
-#!/bin/bash 
-#
-# Add / remove MySQL database
-#
-# Stephen Lang
-# Tue Mar  5 23:53:01 EST 2013
 
 
 # Variables
